@@ -1,3 +1,4 @@
+//I've bought sensors that don't work and I used this code to make sure. 
 const int trigPin = 5;
 const int echoPin = 6;
 
